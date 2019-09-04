@@ -1,0 +1,27 @@
+Package: com.super-devs.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: super-devs <super-devs@outlook.sa>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.super-devs.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: super-devs <super-devs@outlook.sa>
+Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.newpackage
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: super-devs <super-devs@outlook.sa>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.super-devs.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: super-devs <reposithree@gmail.com>
+Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.oldpackage
