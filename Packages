@@ -1,14 +1,17 @@
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.7
-Section: Tweaks
-Maintainer: super-devs <super-devs@outlook.sa>
-Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.7_iphoneos-arm.deb
 Size: 1320492
 MD5sum: b3201af1744133cb79bf080c145998ea
-Description: Allows you to downgrade/upgrade apps in the AppStore, block updates, bypass 200MB download limit, disable search ads &amp; disable app thinning.
-Name: Appstore++
-Author: super-devs <super-devs@outlook.sa>
-Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.appstoreplus
-
+SHA1: 1159e548602d57603473c374f4e1a03e97fb5850
+SHA256: daab5e2b1b0a6d644fb8ad560571208decce4b510f5741193e0892f0806a632c
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.4
+Author: CokePokes
+Depiction: https://super-devs.github.io/depiction/com.super-devs.appstoreplus.html
+Name: AppStore++
