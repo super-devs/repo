@@ -13,5 +13,5 @@ Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.4
 Author: CokePokes
-Depiction: https://super-devs.github.io/depiction/com.super-devs.appstoreplus.html
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Name: AppStore++
