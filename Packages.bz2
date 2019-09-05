@@ -1,31 +1,3 @@
-Package: com.super-devs.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: super-devs <super-devs@outlook.sa>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.super-devs.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: super-devs <super-devs@outlook.sa>
-Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.newpackage
-
-Package: com.super-devs.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: super-devs <super-devs@outlook.sa>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.super-devs.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: super-devs <super-devs@outlook.sa>
-Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.oldpackage
-
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.7
 Architecture: iphoneos-arm
@@ -39,7 +11,7 @@ SHA1: 1159e548602d57603473c374f4e1a03e97fb5850
 SHA256: daab5e2b1b0a6d644fb8ad560571208decce4b510f5741193e0892f0806a632c
 Section: Tweaks
 Priority: optional
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.2
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.4
 Author: CokePokes
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Depiction: https://super-devs.github.io/depiction/com.super-devs.appstoreplus.html
 Name: AppStore++
