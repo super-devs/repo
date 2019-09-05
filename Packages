@@ -1,4 +1,4 @@
-Package: com.super-devs.appstoreplusplus
+Package: com.super-devs.appstoreplus
 Version: 0.9.7
 Section: Tweaks
 Maintainer: super-devs <super-devs@outlook.sa>
@@ -10,7 +10,7 @@ MD5sum: b3201af1744133cb79bf080c145998ea
 Description: Allows you to downgrade/upgrade apps in the AppStore, block updates, bypass 200MB download limit, disable search ads &amp; disable app thinning.
 Name: Appstore++
 Author: super-devs <super-devs@outlook.sa>
-Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.newpackage
+Depiction: https://super-devs.github.io/repo/depictions/?p=com.super-devs.appstoreplus
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
