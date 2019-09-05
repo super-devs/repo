@@ -5,7 +5,7 @@ Maintainer: super-devs <super-devs@outlook.sa>
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.7_iphoneos-arm.deb
-Size: 1320
+Size: 1320492
 MD5sum: b3201af1744133cb79bf080c145998ea
 Description: Allows you to downgrade/upgrade apps in the AppStore, block updates, bypass 200MB download limit, disable search ads &amp; disable app thinning.
 Name: Appstore++
