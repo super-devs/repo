@@ -1,4 +1,4 @@
-Package: com.cokepokes.appstoreplusplus
+Package: com.super-devs.appstoreplusplus
 Version: 0.9.6
 Architecture: iphoneos-arm
 Maintainer: CokePokes
@@ -13,5 +13,5 @@ Section: Tweaks
 Priority: optional
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.4
 Author: super-devs
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Depiction: https://super-devs.github.io/depictions/index.html
 Name: AppStore++
