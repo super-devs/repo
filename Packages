@@ -16,17 +16,17 @@ Author: super-devs
 Name: AppStore++
 
 Package: com.super-devs.safariplus
-Version: 1.6.6
+Version: 1.7.3
 Architecture: iphoneos-arm
 Maintainer: opa334
-Installed-Size: 1724
+Installed-Size: 4740
 Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
-Filename: ./debs/com.opa334.safariplus_1.6.6_iphoneos-arm.deb
+Filename: ./debs/com.opa334.safariplus_1.7.3_iphoneos-arm.deb
 Size: 428628
-MD5sum: 796062b97409f4b5262959a4f21bda4a
-SHA1: af2d8bbf34cd5c90237ef9c01629b88d5a35ec71
-SHA256: 458187a815313442b9fe31478d56f9b9ff4bd9528db3979cbc6225992241248e
+MD5sum: f6e936678989ca22d8b75c98ca295be2
+SHA1: cc0f6e3853100516e7dc83334d589aef5333a3bc
+SHA256: d0325010352b71cf25c2ba2feb1dd5e11ecbf81f3ca58d8005c1d1f1a043dc94
 Section: Tweaks
-Description: Various enhancements to Safari!
+Description: Various enhancements to Safari! / اضاقات مميزة لبرنامج سفاري
 Author: super-devs
 Name: Safari Plus
