@@ -1,0 +1,32 @@
+Package: com.super-devs.appstoreplusplus
+Version: 0.9.6
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.6_iphoneos-arm.deb
+Size: 1320492
+MD5sum: b3201af1744133cb79bf080c145998ea
+SHA1: 1159e548602d57603473c374f4e1a03e97fb5850
+SHA256: daab5e2b1b0a6d644fb8ad560571208decce4b510f5741193e0892f0806a632c
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.4
+Author: super-devs
+Name: AppStore++
+
+Package: com.super-devs.safariplus
+Version: 1.7.3
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 4740
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.opa334.safariplus_1.7.3_iphoneos-arm.deb
+Size: 428628
+MD5sum: f6e936678989ca22d8b75c98ca295be2
+SHA1: cc0f6e3853100516e7dc83334d589aef5333a3bc
+SHA256: d0325010352b71cf25c2ba2feb1dd5e11ecbf81f3ca58d8005c1d1f1a043dc94
+Section: Tweaks
+Description: Various enhancements to Safari! / اضاقات مميزة لبرنامج سفاري
+Author: super-devs
+Name: Safari Plus
